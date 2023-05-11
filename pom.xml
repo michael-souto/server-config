@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.detrasoft</groupId>
 	<artifactId>server-config</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>server-config</name>
 	<description>Microserviço responsável pelo controle de configurações dos demais microserviços</description>
 	<properties>
